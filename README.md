@@ -1,15 +1,15 @@
 # 💫 About Me:
-👷 Currently pursuing B.Tech in Computer science and Engineering (2021-2025) from SRMCEM, Lucknow.<br>🔭 Schooled from PCM with Computer Applications stream from Spring Dale College, ISC Board - 95.4%<br>💬 Ask me about CP/Html/CSS/Javascript/Django/MERN<br>🤔 I’m looking for help with how to excel in Competitive Programming<br>⚡ Fun fact: I like to think I'm funny, infused with a dash of zeal and unwavering determination.<br>
+👷 Currently pursuing B.Tech in Computer Science and Engineering (2022-2026) from SRMCEM, Lucknow.<br>🔭 Intermediate Schooled from PCM with Computer Applications stream from City Montessori School, ISC Board - 96%.<br>🔭 High Schooled from City Montessori School, ICSE Board - 96.2%.<br>💬 Ask me about CP/Html/CSS/Javascript/ReactJS/Django/MERN.<br>🤔 I’m looking for help with how to excel in Competitive Programming and Web Development.<br>⚡ Fun fact: I like to think I'm funny, infused with unwavering determination, and passionate about Competitive Coding and Web Development.<br>📫 How to reach me: Gmail- mishravardhanharsh16nov@gmail.com.<br>📫 How to reach me: Linkedin- https://www.linkedin.com/in/harsh-vardhan-mishra1611
 
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HARSH VARDHAN MISHRA) 
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshvardhanmishra1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanmishra1611&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanmishra1611&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=harshvardhanmishra1611&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-readme-stats.vercel.app/api?username=harshvardhanmishra1611&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=harshvardhanmishra1611&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshvardhanmishra1611&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
